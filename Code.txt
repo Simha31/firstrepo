@@ -8,3 +8,5 @@
 4. And intialise the variable 
 
 5. code to be added
+
+6. Hiding the last seen

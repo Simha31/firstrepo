@@ -10,3 +10,7 @@
 5. code to be added
 
 6. Hiding the last seen
+
+7. Adding the video call
+
+8. Adding the video call feture
